@@ -20,4 +20,11 @@
     <module>langgraph4j-learn-sample-simple</module>
   </modules>
 
+  <dependencies>
+      <dependency>
+          <groupId>org.bsc.langgraph4j</groupId>
+          <artifactId>langgraph4j-core</artifactId>
+      </dependency>
+  </dependencies>
+
 </project>
